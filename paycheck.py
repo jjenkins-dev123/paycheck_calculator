@@ -17,7 +17,7 @@ tax_rate = float(input('Enter Tax Rate: '))
 # int("37.5") crashes.
 #
 # Then calculate:
-gross_pay = hrs_work * hr_rate
+gross_pay = hours * hour_rates
 tax_held = gross_pay * (tax_rate / 100)
 net_pay = gross_pay - tax_held
 
