@@ -1,4 +1,4 @@
-# Name: Madison Jones
+# Name: Jalen Jenkins
 # Date: 9/18/26
 # Course: COMP 163
 # Project 1: Paycheck Calculator
