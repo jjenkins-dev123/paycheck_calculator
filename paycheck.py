@@ -6,9 +6,9 @@
 # Put your name after "# Name:" above. The grader checks that it is filled in.
 
 # Read four values from the user, in this order:
-name = input('Enter Employee Name: ')
-hrs_work = float(input('Enter Hours Worked: '))
-hr_rate = float(input('Enter Hourly Rate: '))
+employee = input('Enter Employee Name: ')
+hours = float(input('Enter Hours Worked: '))
+hour_rate = float(input('Enter Hourly Rate: '))
 tax_rate = float(input('Enter Tax Rate: '))
 
 #
